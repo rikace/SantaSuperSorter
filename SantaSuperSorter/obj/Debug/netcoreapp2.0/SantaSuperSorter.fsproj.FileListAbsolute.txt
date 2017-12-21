@@ -1,0 +1,9 @@
+C:\Demo\Tone\SantaSuperSorter\SantaSuperSorter\bin\Debug\netcoreapp2.0\SantaSuperSorter.dll.config
+C:\Demo\Tone\SantaSuperSorter\SantaSuperSorter\bin\Debug\netcoreapp2.0\SantaSuperSorter.deps.json
+C:\Demo\Tone\SantaSuperSorter\SantaSuperSorter\bin\Debug\netcoreapp2.0\SantaSuperSorter.runtimeconfig.json
+C:\Demo\Tone\SantaSuperSorter\SantaSuperSorter\bin\Debug\netcoreapp2.0\SantaSuperSorter.runtimeconfig.dev.json
+C:\Demo\Tone\SantaSuperSorter\SantaSuperSorter\bin\Debug\netcoreapp2.0\SantaSuperSorter.dll
+C:\Demo\Tone\SantaSuperSorter\SantaSuperSorter\bin\Debug\netcoreapp2.0\SantaSuperSorter.pdb
+C:\Demo\Tone\SantaSuperSorter\SantaSuperSorter\obj\Debug\netcoreapp2.0\SantaSuperSorter.fsprojResolveAssemblyReference.cache
+C:\Demo\Tone\SantaSuperSorter\SantaSuperSorter\obj\Debug\netcoreapp2.0\SantaSuperSorter.dll
+C:\Demo\Tone\SantaSuperSorter\SantaSuperSorter\obj\Debug\netcoreapp2.0\SantaSuperSorter.pdb
